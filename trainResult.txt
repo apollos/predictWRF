@@ -1,0 +1,2 @@
+wrfinput: meanV:5.908304;stdV:1.279784;coeff:2.350000;
+wrfout: meanV:1.956059;stdV:0.510468;coeff:2.070000;
